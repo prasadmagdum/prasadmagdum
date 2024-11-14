@@ -4,7 +4,7 @@
 I have a passion for  "software development, machine learning, or open-source projects".
 
 ## 🌱 I’m currently studying
-I'm currently pursuing my engineering degree at Bharati Vidyapeeth College of Engineering, Kolhapur, where I'm learning  "computer science & engineering (Artificial Intelligence & Machine Learning.
+I'm currently pursuing my engineering degree at Bharati Vidyapeeth College of Engineering, Kolhapur, where I'm learning  "computer science & engineering (Artificial Intelligence & Machine Learning.)
 
 ## 💞️ I’m looking to collaborate on ...
 I’m open to collaborating on  "open-source projects, innovative software solutions, or research work related to AI".
