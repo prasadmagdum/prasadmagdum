@@ -1,20 +1,21 @@
-# 👋 Hi, I’m @prasadmagdum
+Hi, I’m Prasad Magdum 👋
+💻 Passionate Developer | AI Enthusiast | Open-Source Advocate
 
-## 👀 I’m interested in ...
-I have a passion for  "software development, machine learning, or open-source projects".
+🌟 About Me:
 
-## 🌱 I’m currently studying
-I'm currently pursuing my engineering degree at Bharati Vidyapeeth College of Engineering, Kolhapur, where I'm learning  "computer science & engineering (Artificial Intelligence & Machine Learning.)
+🔍 I’m deeply passionate about software development, machine learning, and contributing to open-source projects.
+🌱 Currently pursuing my B.E. in Computer Science & Engineering (AI & ML) at Bharati Vidyapeeth College of Engineering, Kolhapur.
+🧠 Always eager to learn, innovate, and explore cutting-edge technologies in AI and software engineering.
+🤝 Looking to Collaborate On:
 
-## 💞️ I’m looking to collaborate on ...
-I’m open to collaborating on  "open-source projects, innovative software solutions, or research work related to AI".
+Open-source projects
+Innovative software solutions
+Research initiatives in Artificial Intelligence
+📫 Let’s Connect:
 
-## 📫 How to reach me ...
-You can reach me via ["email at prasadmagdum307@gmail.com" or "LinkedIn: https://www.linkedin.com/feed/"].
+✉️ Email: prasadmagdum307@gmail.com
+🌐 LinkedIn: linkedin.com/in/prasadmagdum
+😄 Pronouns: He/Him
+🧩 Fun Fact: I’m a puzzle-solving enthusiast and can solve a Rubik’s cube in under a minute! 🕐
 
-## 😄 Pronouns
-He/Him
-
-## ⚡ Fun fact
-[ "I love solving puzzles and can solve a Rubik's cube in under a minute!"]
-
+⚡ Let’s build something amazing together!
