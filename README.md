@@ -20,13 +20,13 @@ Frontend Development:
 
 
 
-Backend Development:
+Backend Development: Django
 
 
-Databases:
+Databases:SQL
 
 
-Programming Languages:
+Programming Languages:C, CPP , JAVA ,Python
 
 
 
