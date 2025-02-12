@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a **Software Developer & CSE-AIML Enthusiast**
 
 ## 📫 Connect With Me  
 📧 Email: prasadmagdum307@gmail.com  
-[GitHub](https://github.com/prasadmagdum307) | [LinkedIn](#) | [Portfolio](#)  
+[GitHub](https://github.com/prasadmagdum) | [LinkedIn](https://www.linkedin.com/in/prasad-magdum-735b13255/) | [Portfolio](#)  
 
 ---
 
