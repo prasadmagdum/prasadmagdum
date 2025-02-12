@@ -1,45 +1,52 @@
-Hi there, I'm Prasad Magdum! 👋
-🚀 Turning Code into Intelligent Possibilities
+# Hi there, I'm Prasad Magdum! 👋  
+🚀 **Turning Code into Intelligent Possibilities**  
 
-Welcome to my GitHub profile! I'm a CSE-AIML enthusiast passionate about building intelligent solutions and crafting dynamic web experiences.
+Welcome to my GitHub profile! I'm a **Software Developer & CSE-AIML Enthusiast** passionate about building intelligent solutions and crafting dynamic web experiences.  
 
-🌱 Currently Learning:
+---
 
-MERN Stack Magic 🪄
-Exploring the realms of AI and ML
-📫 Reach Me At:
-prasadmagdum307@gmail.com
+## 🌱 Currently Learning  
+🔹 MERN Stack (MongoDB, Express.js, React, Node.js)  
+🔹 Exploring AI & Machine Learning  
 
-🌟 About Me:
-💻 Coding Enthusiast: Constantly experimenting with new technologies and sharpening my skills.
-🌍 Tech Stack Explorer: Diving into web development, machine learning, and cloud computing.
-🎯 Future Goals: Contribute to impactful projects and create AI-driven solutions.
-⚒️ Tech & Tools I Use:
-Frontend Development:
+---
 
+## ⚡ About Me  
+- 💻 **Passionate Developer**: Building scalable and efficient applications.  
+- 🌍 **Tech Explorer**: Web development, cloud computing, and AI-driven solutions.  
+- 🎯 **Future Goals**: Contribute to impactful projects and open-source communities.  
 
+---
 
+## 🛠️ Tech & Tools  
 
-Backend Development: Django
+### **Frontend Development**  
+- HTML, CSS, Bootstrap, React  
 
+### **Backend Development**  
+- Django, Node.js, Express  
 
-Databases:SQL
+### **Databases**  
+- SQL, MongoDB  
 
+### **Programming Languages**  
+- C, C++, Java, Python, JavaScript  
 
-Programming Languages:C, CPP , JAVA ,Python
+### **Tools & Platforms**  
+- Git, Postman, AWS, Docker  
 
+---
 
+## 📫 Connect With Me  
+📧 Email: prasadmagdum307@gmail.com  
+[GitHub](https://github.com/prasadmagdum307) | [LinkedIn](#) | [Portfolio](#)  
 
+---
 
+## 📊 GitHub Stats  
+![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadmagdum307&show_icons=true&theme=light)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadmagdum307&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)  
 
-Tools:
+---
 
-
-
-
-🌐 Connect With Me:
-
-
-📈 GitHub Stats
-
-
+🚀 **Let's build something amazing together!**  
