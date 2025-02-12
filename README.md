@@ -42,11 +42,4 @@ Welcome to my GitHub profile! I'm a **Software Developer & CSE-AIML Enthusiast**
 [GitHub](https://github.com/prasadmagdum) | [LinkedIn](https://www.linkedin.com/in/prasad-magdum-735b13255/) | [Portfolio](#)  
 
 ---
-
-## 📊 GitHub Stats  
-![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasadmagdum307&show_icons=true&theme=light)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasadmagdum307&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
 🚀 **Let's build something amazing together!**  
