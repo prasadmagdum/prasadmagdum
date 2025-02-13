@@ -1,4 +1,4 @@
-# Hi there, I'm Prasad Magdum! 👋  
+# I'm Prasad Magdum! 👋  
 🚀 **Turning Code into Intelligent Possibilities**  
 
 Welcome to my GitHub profile! I'm a **Software Developer & CSE-AIML Enthusiast** passionate about building intelligent solutions and crafting dynamic web experiences.  
@@ -33,13 +33,13 @@ Welcome to my GitHub profile! I'm a **Software Developer & CSE-AIML Enthusiast**
 - C, C++, Java, Python, JavaScript  
 
 ### **Tools & Platforms**  
-- Git, Postman, AWS, Docker  
+- Git, Postman, AWS 
 
 ---
 
 ## 📫 Connect With Me  
 📧 Email: prasadmagdum307@gmail.com  
-[GitHub](https://github.com/prasadmagdum) | [LinkedIn](https://www.linkedin.com/in/prasad-magdum-735b13255/) | [Portfolio](#)  
+[GitHub](https://github.com/prasadmagdum) | [LinkedIn](https://www.linkedin.com/in/prasad-magdum-735b13255/) | 
 
 ---
 🚀 **Let's build something amazing together!**  
