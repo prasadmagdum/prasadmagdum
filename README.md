@@ -18,5 +18,5 @@ Tools: Git, Postman, AWS
 
 Contact Me
 Email: prasadmagdum307@gmail.com
-| linkdin
+LinkedIn: https://www.linkedin.com/in/pmagdum/
 
