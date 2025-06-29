@@ -1,8 +1,5 @@
 I'm a final-year Computer Engineering student and a fresher software developer who enjoys building websites and learning new technologies.
 Turning Code into Smart Ideas
-I’m Learning:
-MERN Stack (MongoDB, Express.js, React, Node.js)
-Basics of AI and Machine Learning
 About Me:
 Beginner Developer: I love writing code and building simple, useful apps
 
