@@ -15,5 +15,5 @@ Languages: C, C++, Java (Basic), Python, JavaScript
 Tools: Git, Postman, AWS
 Let’s Connect
 Email: prasadmagdum307@gmail.com
-LinkedIn: linkedin.com/in/pmagdum
-Portfolio: prasad-magdum-1166.netlify.app
+LinkedIn: https://www.linkedin.com/in/pmagdum/
+Portfolio: https://prasad-magdum-1166.netlify.app/
