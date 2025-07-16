@@ -1,20 +1,22 @@
-I'm a final-year Computer Engineering student and a fresher software developer who enjoys building websites and learning new technologies.
-Turning Code into Smart Ideas
-About Me:
-Beginner Developer: I love writing code and building simple, useful apps
+I’m Prasad Magdum, a final-year Computer Engineering student and a fresher software developer. I enjoy turning code into smart, simple ideas — building websites, experimenting with new tech, and solving real-world problems.
 
-Curious Learner: I explore web development, cloud tools, and AI
+About Me
+Beginner Developer: I love writing clean code and making small, useful apps.
 
-Future Goal: Work on real-world projects and join open-source communities
-Skills & Tools:
+Curious Learner: Always exploring web development, cloud tools, and AI.
+
+Future Goals: Contribute to open-source and work on impactful projects.
+
+Skills & Tools
 Frontend: HTML, CSS, Bootstrap, React
 Backend: Django, Node.js, Express
 Databases: SQL, MongoDB
-Languages: C, C++, Basic Java, Python, JavaScript
+Languages: C, C++, Java (Basic), Python, JavaScript
 Tools: Git, Postman, AWS
 
-Contact Me
+Let’s Connect
 Email: prasadmagdum307@gmail.com
-LinkedIn: https://www.linkedin.com/in/pmagdum/
-Portfolio:https://prasad-magdum-1166.netlify.app
 
+LinkedIn: linkedin.com/in/pmagdum
+
+Portfolio: prasad-magdum-1166.netlify.app
