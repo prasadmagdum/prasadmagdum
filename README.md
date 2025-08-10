@@ -11,7 +11,8 @@ Frontend: HTML, CSS, Bootstrap, React
 Backend: Django, Node.js, Express
 Databases: SQL, MongoDB
 Languages: C, C++, Java (Basic), Python, JavaScript
-Tools: Git, Postman, AWS
+Tools: Git, Postman, AWS.
+
 Let’s Connect
 
 Email: prasadmagdum307@gmail.com
