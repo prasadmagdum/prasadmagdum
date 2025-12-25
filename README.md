@@ -1,11 +1,10 @@
 # I’m Prasad Magdum, 
-Aspiring web Developer | Open to Opportunities
- Hi there! I’m Prasad Magdum, a passionate and detail-oriented Computer Science fresher with 6+ months of internship experience in developing web applications and backend systems.
+Aspiring web Developer | Open to Opportunities, a passionate and detail-oriented Computer Science fresher with 6+ months of internship experience in developing web applications and backend systems.
 
 I am skilled at:
  Programming Languages: Python, JavaScript , core Java
  Web Development: React.js, Django, HTML5, CSS3, Bootstrap, Tailwind CSS
- Databases: MySQL, PostgreSQL, MongoDB
+ Databases: MySQL, MongoDB
  Developer Tools: Git, GitHub, Postman, VS Code, Thunder Client
  Core Expertise: REST API development, CRUD operations, authentication & authorization, role-based access control, responsive UI design
 
