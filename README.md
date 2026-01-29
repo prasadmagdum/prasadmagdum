@@ -1,5 +1,5 @@
 # I’m Prasad Magdum, 
-| Open to Opportunities, a passionate and detail-oriented Computer Science fresher with 6+ months of internship experience in developing web applications and backend systems.
+|Open to Opportunities, a passionate and detail-oriented Computer Science fresher with 6+ months of internship experience in developing web applications and backend systems.
 
 I am skilled at:
  Programming Languages: Python, JavaScript , core Java
@@ -11,6 +11,7 @@ I am skilled at:
 During my internships at Clever-Ground Technologies and Adhyayan Education Services, I worked on real-world projects like learning management systems and user authentication modules, gaining hands-on experience with backend APIs, database management, and full-stack development.
 I’m excited to explore new opportunities where I can contribute as a Software Developer, collaborate with innovative teams, and continue growing my skills in full-stack development.
 When I’m not coding, you can find me watching cricket matches, sketching, drawing, or traveling, which keeps me inspired and creative.
+
 
 Let’s connect and explore potential opportunities to collaborate!
 
