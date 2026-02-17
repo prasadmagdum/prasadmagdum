@@ -3,7 +3,7 @@
 
 I am skilled at:
  Programming Languages: Python, JavaScript , core Java
- Web Development: React.js, Django,node.js, HTML5, CSS3, Tailwind CSS,Bootstrap
+ Web Development: React.js, Django, HTML5, CSS3, Tailwind CSS,Bootstrap,node.js
  Databases: MySQL, MongoDB
  Developer Tools: Git, GitHub, Postman, VS Code, Thunder Client
  Core Expertise: REST API development, CRUD operations, authentication & authorization, role-based access control, responsive UI design
@@ -20,3 +20,5 @@ Email: prasadmagdum307@gmail.com
 LinkedIn: https://www.linkedin.com/in/pmagdum/
 
 Portfolio: https://prasad-magdum-1166.netlify.app/
+
+Contact:8767963581
