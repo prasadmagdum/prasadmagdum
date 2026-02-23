@@ -1,5 +1,5 @@
 # I’m Prasad Magdum, 
-Frontend focsued | Open to Entry-Level Roles, a passionate and detail-oriented Computer Science  fresher  with 6+ months of internship experience in developing web applications and backend systems.
+ | Open to Entry-Level Roles | Frontend focsued , a passionate and detail-oriented Computer Science  fresher  with 6+ months of internship experience in developing web applications and backend systems.
 
 I am skilled at:
  Programming Languages: Python, JavaScript , core Java
