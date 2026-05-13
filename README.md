@@ -4,6 +4,9 @@
 I am skilled at:
  Programming Languages: Python, JavaScript , core Java
  Web Development: React.js, Django, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js.
+AIML: Supervised & Unsupervised Learning, Linear & Logistic Regression, Classification & Clustering, Decision Trees & Random 
+Forest, Neural Networks & Deep Learning, CNN, RNN, LSTM, Generative AI &(LLMs), Prompt Engineering, NLP, TensorFlow, 
+Feature engineering, Keras, scikit-learn 
  Databases: MySQL, MongoDB.
  Developer Tools: Git, GitHub, Postman, VS Code, Thunder Client.
  Core Expertise: REST API development, CRUD operations, authentication & authorization, role-based access control, responsive UI design.
