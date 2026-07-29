@@ -1,31 +1,8 @@
-# I’m Prasad Magdum, 
- |Open to Entry-Level Roles | Frontend focsued , a passionate and detail-oriented Computer Science  fresher  with 6+ months of internship experience in developing web applications and backend systems.
+I'm a Computer Science graduate (AI & Machine Learning) who enjoys building things end-to-end — from REST APIs to the interfaces on top of them.
 
-I am skilled at:
- Programming Languages: Python, JavaScript , core Java
- Web Development: React.js, Django, HTML5, CSS3, Tailwind CSS, Bootstrap, Node.js.
- 
-AIML: Supervised & Unsupervised Learning, Linear & Logistic Regression, Classification & Clustering, Decision Trees & Random 
-Forest, Neural Networks & Deep Learning, CNN, RNN,  Generative AI &(LLMs), Prompt Engineering, NLP, TensorFlow, 
-Feature engineering, Keras, scikit-learn.
+During my internship at Clever-Ground Technologies, I designed and shipped 10+ REST APIs for a live Learning Management System using Django REST Framework, built secure role-based access control for students, staff, and admins, and cut API response errors by ~20-25% through systematic testing.
 
- Databases: MySQL, MongoDB.
- 
- Developer Tools: Git, GitHub, Postman, VS Code, Thunder Client.
- 
- Core Expertise: REST API development, CRUD operations, authentication & authorization, role-based access control, responsive UI design.
+Outside of work, I've built full-stack applications like Rentora (a MERN car-rental platform) and Needo (a donor-to-NGO donation platform), and I'm comfortable across Python, Django, React.js, and Node.js — backend, frontend, or full-stack, I go where the problem needs me.
 
-During my internships at Clever-Ground Technologies and Adhyayan Education Services, I worked on real-world projects like learning management systems and user authentication modules, gaining hands-on experience with backend APIs, database management, and full-stack development.
-I’m excited to explore new opportunities where I can contribute as a Software Developer, collaborate with innovative teams, and continue growing my skills in full-stack development.
-When I’m not coding, you can find me watching cricket matches, sketching, drawing, or traveling, which keeps me inspired and creative.
-
-
-Let’s connect and explore potential opportunities to collaborate!
-
-Email: prasadmagdum307@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/pmagdum/
-
-Portfolio: https://prasad-magdum-1166.netlify.app/
-
-Contact:8767963581
+I'm looking for my first full-time role as a Software Developer. Open to opportunities — reach out at prasadmagdum307@gmail.com or send a connection request; I respond to every message. 
+📩prasadmagdum307@gmail.com
