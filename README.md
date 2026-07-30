@@ -17,3 +17,8 @@ During my internship at Clever-Ground Technologies, I built and shipped REST API
 I've also built full-stack projects like Needo (donor-to-NGO donation platform) and FinTrack (finance dashboard) — check my pinned repos below.
 
 📩 Open to opportunities — reach out at prasadmagdum307@gmail.com
+
+- LinkedIn: linkedin.com/in/pmagdum
+
+- Portfolio: prasad-magdum-1166.netlify.app
+
