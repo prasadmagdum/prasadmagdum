@@ -18,7 +18,7 @@ I've also built full-stack projects like Needo (donor-to-NGO donation platform) 
 
 📩 Open to opportunities — reach out at prasadmagdum307@gmail.com
 
-- LinkedIn: linkedin.com/in/pmagdum
+- LinkedIn: https://www.linkedin.com/in/pmagdum/
 
-- Portfolio: prasad-magdum-1166.netlify.app
+- Portfolio: https://prasad-magdum-1166.netlify.app/
 
