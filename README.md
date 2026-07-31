@@ -1,12 +1,14 @@
 # Hi, I'm Prasad Magdum 👋
 
-Open to Entry-Level Software Developer Roles | Backend • Frontend • Full-Stack | Computer Science (AI & ML) Graduate
+Open to Entry-Level Software Developer Roles & AI Engineer| Computer Science (AI & ML) Graduate
 
 **Skills**
 
 - Languages: Python, JavaScript, Core Java, SQL
 
-- Web Development: React.js, Django, Django REST Framework, Node.js, Express.js, HTML5, CSS3, Tailwind CSS
+- Web Development: React.js, Django, Django REST Framework,  HTML5, CSS3, Tailwind CSS
+
+- AI/ML Exposure: Generative AI, Scikit-learn, TensorFlow, Pandas, NumPy, Prompt Engineering 
 
 - Databases: MySQL, MongoDB Atlas, PostgreSQL
 
