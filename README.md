@@ -1,6 +1,6 @@
 # Hi, I'm Prasad Magdum 
 
-Open to Entry-Level Software Developer Roles & AI Engineer| Computer Science (AI & ML) Graduate
+Open to Entry-Level Software Developer Roles & AIML Engineer| Computer Science (AI & ML) Graduate
 
 **Skills**
 
