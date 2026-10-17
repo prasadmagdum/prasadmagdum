@@ -4,19 +4,19 @@ Open to Entry-Level Software Developer Roles & AI Engineer| Computer Science (AI
 
 **Skills**
 
-- Languages: Python, JavaScript, Core Java, SQL
+- Languages: Python, Core Java, SQL, JavaScript
 
-- Web Development: React.js, Django, Django REST Framework,  HTML5, CSS3, Tailwind CSS
+- Web Development: Django, Django REST Framework, React.js, HTML5, CSS3, Tailwind CSS
 
-- AI/ML Exposure: Generative AI, Scikit-learn, TensorFlow, Pandas, NumPy, Prompt Engineering 
+- AI/ML Exposure: Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow, Generative AI, LLMs, Prompt Engineering
 
 - Databases: MySQL, MongoDB Atlas, PostgreSQL
 
 - Tools: Git, GitHub, Postman, Thunder Client, VS Code
 
-During my internship at Clever-Ground Technologies, I built and shipped REST APIs for a production Learning Management System, designed role-based access control, and cut API response errors by ~20-25%.
+During my internship at Clever-Ground Technologies, I built and shipped REST APIs for a production Learning Management System, designed role-based access control, and cut API response errors.
 
-I've also built full-stack projects like Needo (donor-to-NGO donation platform) and FinTrack (finance dashboard) — check my pinned repos below.
+Outside of work, I've built full-stack applications like Needo (a donor-to-NGO donation platform), CareerAI-AI-Powered Resume Analyzer & Job Matching Platform and Rentora (a MERN car-rental platform). I'm comfortable across Python, Django, React.js, — backend, frontend, CS fundamentals and an AI/ML foundation, I go where the problem needs me
 
 📩 Open to opportunities — reach out at prasadmagdum307@gmail.com
 
