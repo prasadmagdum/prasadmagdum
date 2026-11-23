@@ -10,7 +10,7 @@ Open to Entry-Level Software Developer Roles & AI & ML Engineer Roles| Computer 
 
 - AI/ML Exposure: Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow, Generative AI, LLMs, Prompt Engineering
 
-- Databases: MySQL, MongoDB Atlas, PostgreSQL
+- Databases: MySQL, PostgreSQL, MongoDB Atlas
 
 - Tools: Git, GitHub, Postman, Thunder Client, VS Code
 
