@@ -1,6 +1,6 @@
 # Hi, I'm Prasad Magdum 
 
-### Computer Science (AI & ML) Graduate 
+### Computer Science (AI & ML) Graduate | Python | Django, React.js & REST APIs | GenAI & LLM Enthusiast
 
 I'm a Computer Science graduate specializing in AI & Machine Learning who enjoys building things end-to-end — from REST APIs to user-friendly interfaces and AI-powered applications.
 
