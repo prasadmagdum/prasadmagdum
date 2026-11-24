@@ -1,26 +1,41 @@
 # Hi, I'm Prasad Magdum 
 
-Open to Entry-Level Software Developer Roles & AI & ML Engineer Roles| Computer Science (AI & ML) Graduate
+### Computer Science (AI & ML) Graduate | Python Developer | AI/ML & Software Development Enthusiast
 
-**Skills**
+I'm a Computer Science graduate specializing in AI & Machine Learning who enjoys building things end-to-end — from REST APIs to user-friendly interfaces and AI-powered applications.
 
-- Languages: Python, Core Java, SQL, JavaScript
+Currently open to **Entry-Level Software Developer, Python Developer, and AI/ML Engineer opportunities.**
 
-- Web Development: Django, Django REST Framework, React.js, HTML5, CSS3, Tailwind CSS
+### -Technical Skills
 
-- AI/ML Exposure: Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow, Generative AI, LLMs, Prompt Engineering
+- **Languages:** Python, Core Java, JavaScript, SQL
+- **Backend:** Django, Django REST Framework, REST API Development
+- **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
+- **AI/ML:** Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow
+- **Generative AI:** GenAI, LLMs, Prompt Engineering
+- **Databases:** MySQL, PostgreSQL, MongoDB Atlas
+- **Tools:** Git, GitHub, Postman, Thunder Client, VS Code
 
-- Databases: MySQL, PostgreSQL, MongoDB Atlas
+### -Experience
 
-- Tools: Git, GitHub, Postman, Thunder Client, VS Code
+**Backend Developer Intern | Clever-Ground Technologies**
 
-During my internship at Clever-Ground Technologies, I built and shipped REST APIs for a production Learning Management System, designed role-based access control, and cut API response errors.
+- Developed REST APIs for a production Learning Management System using Django REST Framework.
+- Implemented role-based access control for students, staff, and admins.
+- Tested and debugged API endpoints to improve reliability.
 
-Outside of work, I've built full-stack applications like Needo (a donor-to-NGO donation platform), CareerAI-AI-Powered Resume Analyzer & Job Matching Platform and Rentora (a MERN car-rental platform). I'm comfortable across Python, Django, React.js, — backend, frontend, CS fundamentals and an AI/ML foundation, I go where the problem needs me
+### -Projects
 
-📩 Open to opportunities — reach out at prasadmagdum307@gmail.com
+- **CareerAI** – AI-Powered Resume Analyzer & Job Matching Platform.
+- **Needo** – Donor-to-NGO Donation Platform.
+- **Rentora** – MERN-based Car Rental Management Platform.
 
-- LinkedIn: https://www.linkedin.com/in/pmagdum/
+### -Let's Connect
 
-- Portfolio: https://prasad-magdum-1166.netlify.app/
+- **Email:** prasadmagdum307@gmail.com
+- **LinkedIn:** [linkedin.com/in/pmagdum](https://www.linkedin.com/in/pmagdum/)
+- **Portfolio:** [prasad-magdum-1166.netlify.app](https://prasad-magdum-1166.netlify.app/)
+- **GitHub:** [github.com/prasadmagdum](https://github.com/prasadmagdum)
 
+---
+Always learning, building, and exploring new technologies!
