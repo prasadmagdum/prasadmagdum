@@ -8,7 +8,7 @@ Currently open to **Entry-Level Software Developer, Python Developer, and AI/ML 
 
 ### -Technical Skills
 
-- **Languages:** Python, Core Java, JavaScript, SQL
+- **Languages:** Python, Core Java,SQL
 - **Backend:** Django, Django REST Framework, REST API Development
 - **Frontend:** React.js, HTML5, CSS3, Tailwind CSS
 - **AI/ML:** Machine Learning, Pandas, NumPy, Scikit-learn, TensorFlow
